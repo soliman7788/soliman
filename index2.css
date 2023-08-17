@@ -1,0 +1,212 @@
+*{
+    color: blue;
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+}
+
+header{
+    background-color: bisque;
+    position: fixed;
+    z-index: 999;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px 80px;
+   
+}
+
+.logo{
+    text-decoration: none;
+    color: firebrick;
+    text-transform: uppercase;
+    font-weight: 500px;
+    font-size: 1.8em;
+    padding: 10px 100px;
+    
+}
+
+.navigation a{
+                                                                                                                                                                                                        
+    color: blueviolet;
+    text-decoration: none; 
+    font-size: 1.1em;
+    font-weight: 400; 
+    padding: 5px;
+    
+
+
+}
+
+
+
+.navigation a:hover{
+    color: brown;
+
+}
+
+.hello h1{
+    
+    height: 100vh;
+    font-weight: 800px;
+    display: flex;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: rgb(6, 16, 15);
+    size: contain;
+    padding-top: 600px;
+    padding-left: 30px;
+    
+    text-transform: none;
+    background: url(NANE_.png) no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    font-size: 30px;
+}
+
+
+.main{
+    color: aquamarine;
+    font-size: 50px;
+    padding-bottom: 40px;
+    text-align: center;
+}
+
+.main-p{
+    background-color: chocolate;
+    background-attachment: fixed;
+}   
+
+.title{
+    font-family: "arial";
+    color: beige;
+
+}
+
+.title-p{
+   color: brown;
+    text-align: center;
+    background-color: aqua;
+
+    font-size: 30px; 
+}
+
+.picures img{
+    height: 60%;
+    width: 60%;
+    padding-left: 500px;
+    padding-bottom: 30px;
+    padding-top: 50px;
+    
+}
+
+
+
+.sport{
+    font-family:arial;
+    color: black;
+    text-align: center;
+    font-size: 60px;
+    background-color: chocolate;
+    
+}
+
+.pop{ 
+    color: brown;
+    text-align: center;
+   font-size: 26px;
+    background-color: aqua;
+   margin-top: 40px;
+   margin-bottom: 10px;
+}
+
+.sss{
+    padding: 100px;
+}
+
+.picures-sport img{
+    height: 400px;
+    width: 400px;
+    padding-left: 80px;
+    padding-bottom: 10px;
+}
+
+.welcome{
+    color: white;
+    font-family: Times;
+    padding-top: 50px;
+    margin-left: 200PX;
+    margin-bottom: 200PX;
+    
+}
+
+.black{
+font-family:arial;
+color: black;
+text-align: center;
+font-size: 50px;
+background-color: chocolate;
+margin-top: 20px;
+}
+
+
+img{
+    height: 40%;
+    width: 40%;
+    padding-left: 80px;
+    
+}
+
+.pic{
+    color: brown;
+    text-align: center;
+    font-size: 30px;
+    background-color: aqua;
+    margin-top: 40px;
+    margin-bottom: 10px;
+    
+}
+
+.animes{
+    font-family:arial;
+color: black;
+text-align: center;
+font-size: 50px;
+background-color: chocolate;
+margin-top: 20px;
+}
+
+.ani{
+    color: brown;
+    text-align: center;
+    font-size: 30px;
+    background-color: aqua;
+    margin-top: 40px;
+    margin-bottom: 10px;
+}
+
+.aaa{
+    padding-left: 100px;
+}
+
+.pic-4k{
+    font-family:arial;
+    color: black;
+    text-align: center;
+    font-size: 50px;
+    background-color: chocolate;
+    margin-top: 20px;
+
+}
+
+.kkk{
+
+    color: brown;
+    text-align: center;
+    font-size: 30px;
+    background-color: aqua;
+    margin-top: 40px;
+    margin-bottom: 10px; 
+
+}
